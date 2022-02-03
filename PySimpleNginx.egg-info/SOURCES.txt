@@ -1,0 +1,11 @@
+README.md
+setup.py
+PySimpleNginx/__init__.py
+PySimpleNginx/config.py
+PySimpleNginx/control.py
+PySimpleNginx/easyconfig.py
+PySimpleNginx/utils.py
+PySimpleNginx.egg-info/PKG-INFO
+PySimpleNginx.egg-info/SOURCES.txt
+PySimpleNginx.egg-info/dependency_links.txt
+PySimpleNginx.egg-info/top_level.txt
